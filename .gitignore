@@ -1,0 +1,3 @@
+
+# Ignore chocolatey package.config backup files
+/src/backup/*packages.config
